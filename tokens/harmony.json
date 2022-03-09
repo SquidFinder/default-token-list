@@ -1,6 +1,14 @@
 [
 	{
 		"chainId": 1666600000,
+		"address": "0xED0B4b0F0E2c17646682fc98ACe09feB99aF3adE",
+		"symbol": "RVRS",
+		"name": "Reverse Protocol",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/SquidFinder/icons/master/token/rvrs.png"
+	},
+	{
+		"chainId": 1666600000,
 		"address": "0x58f1b044d8308812881a1433d9Bbeff99975e70C",
 		"symbol": "1INCH",
 		"name": "1INCH Token",
